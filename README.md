@@ -48,15 +48,24 @@ pip install pandas scikit-learn
 2. Run the script:
 python iris_classification.py
 
-3. Enter the required inputs in the terminal:
-Enter Sepal Length (cm):
-Enter Sepal Width (cm):
-Enter Petal Length (cm):
-Enter Petal Width (cm):
+====== IRIS FLOWER CLASSIFICATION ======
 
-✅ Example Output:
-Predicted Species: Iris-setosa
-Model Accuracy: 96.67%
+Enter flower measurements to predict the species.
+
+Enter Sepal Length (cm): 5.1
+
+Enter Sepal Width  (cm): 3.5
+
+Enter Petal Length (cm): 1.4
+
+Enter Petal Width  (cm): 0.2
+
+✅Output:
+----------------------------------------
+ Predicted Species: Iris-setosa
+----------------------------------------
+Model Accuracy: 100.00%
+----------------------------------------
 
 🎯 Internship Task
 
