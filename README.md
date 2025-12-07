@@ -58,11 +58,6 @@ Enter Petal Width (cm):
 Predicted Species: Iris-setosa
 Model Accuracy: 96.67%
 
-📁 Project Structure
-├── iris.data
-├── iris_classification.py
-└── README.md
-
 🎯 Internship Task
 
 This project is submitted as Task 2 – Iris Flower Classification under the Foundational Stage of the Cognetix Technology Internship Program.
